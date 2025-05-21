@@ -19,16 +19,16 @@ Proyek ini bertujuan untuk mengembangkan solusi berbasis data dalam mendeteksi p
 * Pembuatan dashboard interaktif yang menyajikan visualisasi distribusi pola mahasiswa berdasarkan statusnya (dropout, graduate, enroll), guna mempermudah analisis dan pengambilan keputusan.
 
 ## Persiapan
-Dataset dibawah ini berasal dari sebuah institusi pendidikan tinggi dan berisi data mahasiswa dari berbagai program studi. Informasi yang tersedia meliputi data awal pendaftaran (riwayat akademik, demografi, dan faktor sosial-ekonomi) serta performa akademik mahasiswa pada akhir semester pertama dan kedua. Dataset digunakan untuk membangun model klasifikasi yang memprediksi kemungkinan mahasiswa dropout atau lulus akademik.
+Dataset dibawah ini berasal dari sebuah institusi pendidikan tinggi dan berisi data mahasiswa dari berbagai program studi. Informasi yang tersedia meliputi data awal pendaftaran (riwayat akademik, demografi, dan faktor sosial-ekonomi) serta performa akademik mahasiswa pada akhir semester pertama dan kedua. Dataset digunakan untuk membangun model klasifikasi yang memprediksi kemungkinan mahasiswa dropout atau lulus.
 
 Sumber Data: https://github.com/dicodingacademy/dicoding_dataset/tree/main/students_performance
 
 Setup Environment:
 
-Proyek ini dapat dijalankan dengan dua cara: secara lokal atau menggunakan Google Colab.
+Proyek ini dapat dijalankan dengan dua cara, yaitu secara lokal atau menggunakan Google Colab.
 
 **Opsi 1:** Menjalankan secara lokal (Terminal / Shell)
-Ikuti perintah berikut untuk menjalankan proyek secara lokal:
+Ikuti perintah berikut untuk menjalankan proyek secara lokal.
 ```
 pip install pipenv
 pipenv install
@@ -36,7 +36,7 @@ pipenv shell
 pip install -r requirements.txt
 ```
 **Opsi 2:** Menjalankan di Google Colab
-Jika ingin menjalankan proyek ini di Google Colab, cukup jalankan perintah berikut di awal notebook:
+Jika ingin menjalankan proyek ini di Google Colab, cukup jalankan perintah berikut di awal notebook.
 ```
 pip install streamlit==1.45.1 pandas==2.2.3 numpy==2.2.5 joblib==1.5.0 scikit-learn==1.6.1 seaborn==0.13.2 matplotlib==3.10.0
 ```
