@@ -6,7 +6,7 @@ Jaya Jaya Institut merupakan salah satu institusi pendidikan yang telah berdiri 
 **Tingginya angka dropout** menjadi tantangan besar bagi institusi pendidikan. Oleh karena itu, Jaya Jaya Institut berupaya mendeteksi secara dini mahasiswa yang berisiko mengalami dropout, agar mereka dapat menerima bimbingan dan pendampingan khusus.
 
 ## Permasalahan Bisnis
-Untuk mengatasi permasalahan tersebut, Jaya Jaya Institut berupaya mengenali lebih awal mahasiswa yang berpotensi mengalami dropout. Dengan begitu, institusi dapat memberikan perhatian dan dukungan khusus yang dibutuhkan agar siswa tetap termotivasi dan mampu menyelesaikan pendidikannya. Dari permasalahan bisnis tersebut, beberapa pertanyaan bisnis dirangkum sebagai acuan untuk menghasilkan solusi sebagai berikut:
+Untuk mengatasi permasalahan tersebut, Jaya Jaya Institut berupaya mengenali lebih awal mahasiswa yang berpotensi mengalami dropout. Dengan begitu, institusi dapat memberikan perhatian dan dukungan khusus yang dibutuhkan agar siswa tetap termotivasi dan mampu menyelesaikan pendidikannya. Beberapa pertanyaan bisnis yang dirangkum sebagai acuan untuk menghasilkan solusi, sebagai berikut:
 1. Bagaimana distribusi status mahasiswa secara keseluruhan?
 2. Program studi mana yang paling banyak mengalami dropout?
 3. Apakah status pernikahan memengaruhi tingkat dropout?
