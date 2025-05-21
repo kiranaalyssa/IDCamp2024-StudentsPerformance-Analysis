@@ -6,7 +6,12 @@ Jaya Jaya Institut merupakan salah satu institusi pendidikan yang telah berdiri 
 **Tingginya angka dropout** menjadi tantangan besar bagi institusi pendidikan. Oleh karena itu, Jaya Jaya Institut berupaya mendeteksi secara dini mahasiswa yang berisiko mengalami dropout, agar mereka dapat menerima bimbingan dan pendampingan khusus.
 
 ## Permasalahan Bisnis
-Untuk mengatasi permasalahan tersebut, Jaya Jaya Institut berupaya mengenali lebih awal mahasiswa yang berpotensi mengalami dropout. Dengan begitu, institusi dapat memberikan perhatian dan dukungan khusus yang dibutuhkan agar siswa tetap termotivasi dan mampu menyelesaikan pendidikannya.
+Untuk mengatasi permasalahan tersebut, Jaya Jaya Institut berupaya mengenali lebih awal mahasiswa yang berpotensi mengalami dropout. Dengan begitu, institusi dapat memberikan perhatian dan dukungan khusus yang dibutuhkan agar siswa tetap termotivasi dan mampu menyelesaikan pendidikannya. Dari permasalahan bisnis tersebut, beberapa pertanyaan bisnis dirangkum sebagai acuan untuk menghasilkan solusi sebagai berikut:
+1. Bagaimana distribusi status mahasiswa secara keseluruhan?
+2. Program studi mana yang paling banyak mengalami dropout?
+3. Apakah status pernikahan memengaruhi tingkat dropout?
+4. Apakah terdapat perbedaan dropout antara laki-laki dan perempuan?
+5. Apakah penerima beasiswa cenderung lebih kecil kemungkinannya untuk dropout?
 
 ## Cakupan Proyek
 Proyek ini bertujuan untuk mengembangkan solusi berbasis data dalam mendeteksi pola mahasiswa yang berpotensi mengalami dropout. Cakupan utama proyek meliputi:
@@ -14,11 +19,23 @@ Proyek ini bertujuan untuk mengembangkan solusi berbasis data dalam mendeteksi p
 * Pembuatan dashboard interaktif yang menyajikan visualisasi distribusi pola mahasiswa berdasarkan statusnya (dropout, graduate, enroll), guna mempermudah analisis dan pengambilan keputusan.
 
 ## Persiapan
+Dataset dibawah ini berasal dari sebuah institusi pendidikan tinggi dan berisi data mahasiswa dari berbagai program studi. Informasi yang tersedia meliputi data awal pendaftaran (riwayat akademik, demografi, dan faktor sosial-ekonomi) serta performa akademik mahasiswa pada akhir semester pertama dan kedua. Dataset digunakan untuk membangun model klasifikasi yang memprediksi kemungkinan mahasiswa dropout atau lulus akademik.
+
 Sumber Data: https://github.com/dicodingacademy/dicoding_dataset/tree/main/students_performance
 
 Setup Environment:
-1. Membuat New Notebook di Google Colab: https://colab.research.google.com/
-3. Install seluruh Library yang dibutuhkan, dengan perintah dibawah ini:
+Proyek ini dapat dijalankan dengan dua cara: secara lokal atau menggunakan Google Colab.
+
+**Opsi 1:** Menjalankan secara lokal (Terminal / Shell)
+Ikuti perintah berikut untuk menjalankan proyek secara lokal:
+```
+pip install pipenv
+pipenv install
+pipenv shell
+pip install -r requirements.txt
+```
+**Opsi 2:** Menjalankan di Google Colab
+Jika ingin menjalankan proyek ini di Google Colab, cukup jalankan perintah berikut di awal notebook:
 ```
 pip install streamlit==1.45.1 pandas==2.2.3 numpy==2.2.5 joblib==1.5.0 scikit-learn==1.6.1 seaborn==0.13.2 matplotlib==3.10.0
 ```
