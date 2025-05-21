@@ -27,18 +27,14 @@ Setup Environment:
 
 Proyek ini dapat dijalankan dengan dua cara, yaitu secara lokal atau menggunakan Google Colab.
 
-**Opsi 1:** Menjalankan secara lokal (Terminal / Shell)
-
-Ikuti perintah berikut untuk menjalankan proyek secara lokal.
+**Opsi 1:** Ikuti perintah berikut untuk menjalankan proyek secara lokal (Terminal / Shell).
 ```
 pip install pipenv
 pipenv install
 pipenv shell
 pip install -r requirements.txt
 ```
-**Opsi 2:** Menjalankan di Google Colab
-
-Jika ingin menjalankan proyek ini di Google Colab, cukup jalankan perintah berikut di awal notebook.
+**Opsi 2:** Jika ingin menjalankan proyek ini di Google Colab, cukup jalankan perintah berikut di awal notebook.
 ```
 pip install streamlit==1.45.1 pandas==2.2.3 numpy==2.2.5 joblib==1.5.0 scikit-learn==1.6.1 seaborn==0.13.2 matplotlib==3.10.0
 ```
