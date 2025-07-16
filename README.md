@@ -73,12 +73,12 @@ Berikut link sistem machine learning: https://students-performance-analysis.stre
 ## Conclusion
 1. Program studi **Course Management (Evening Attendance), Nursing, dan Journalism** menjadi tiga jurusan dengan tingkat dropout mahasiswa tertinggi.
 2. Mahasiswa dengan status **single** memiliki kecenderungan dropout yang lebih tinggi dibandingkan dengan status lainnya.
-3. Jumlah mahasiswa **perempuan** yang mengalami dropout lebih banyak dibandingkan mahasiswa laki-laki.
+3. Jumlah mahasiswa **perempuan** menunjukkan angka dropout yang sedikit lebih tinggi. Namun demikian, jumlah mahasiswa laki-laki yang mengalami dropout juga cukup banyak.
 4. Mahasiswa yang **tidak menerima beasiswa** menunjukkan tingkat dropout yang lebih tinggi daripada yang menerima beasiswa.
 
 ## Rekomendasi Action Items
 * **Fokus pada Program Studi dengan Dropout Tinggi**: Lakukan evaluasi dan intervensi khusus di jurusan Course Management (Evening Attendance), Nursing, dan Journalism untuk memahami penyebab dropout dan mengembangkan program pendukung seperti bimbingan akademik atau motivasi.
 
-* **Buat Program Pendukung untuk Mahasiswa Single dan Perempuan:** Kembangkan layanan konseling dan komunitas pendukung yang ditargetkan bagi mahasiswa dengan status single dan perempuan untuk mengurangi risiko dropout.
+* **Buat Program Pendukung untuk Mahasiswa dengan Status Single (Semua Gender):** Kembangkan layanan konseling dan komunitas pendukung yang ditargetkan secara khusus bagi mahasiswa dengan status single, baik laki-laki maupun perempuan, untuk membantu mengurangi risiko dropout.
 
 * **Perluas Akses Beasiswa dan Bantuan Finansial:** Tingkatkan sosialisasi dan perluasan program beasiswa agar lebih banyak mahasiswa bisa mendapat dukungan finansial, sehingga dapat menurunkan angka dropout akibat kendala ekonomi.
